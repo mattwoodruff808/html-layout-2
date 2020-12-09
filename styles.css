@@ -23,6 +23,7 @@ header {
 svg {
     height: 27px;
     margin-left: 100px;
+    fill: white;
 }
 
 #nav-links {
